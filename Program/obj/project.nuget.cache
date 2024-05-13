@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DPI+JxLYTunUrRWyGD5jz4a2VbrO75woodJ4Fh3ceN1pWcZJaBShyK3f12aim0d+ArfS1KMSwYPr9ESeYni2jg==",
+  "success": true,
+  "projectFilePath": "/home/pingu/faculdade/ponderada-sem4/Program/ponderada-sem4.csproj",
+  "expectedPackageFiles": [
+    "/home/pingu/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
